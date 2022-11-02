@@ -1,0 +1,3 @@
+#!/bin/sh
+
+rsync -avr --delete /Users/josephbyrnes/Research/BayesSplit/ jsb474@dtn1.hpc.nau.edu:/scratch/jsb474/BayesSplit/
