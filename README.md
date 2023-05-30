@@ -5,4 +5,4 @@ This is code for handling SKS phases under difficult conditions: low signal to n
 
 Complex anisotropy in this case means either multiple layers or layers within which the fast-direction is not constant. 
 
-This is for a project currently awaiting a funding decision, and will be reactivated if funding becomes available. In the mean time, feel free to download and contact me if you have any questions. 
+This project is currently active. In the mean time, feel free to download and contact me if you have any questions, but there won't be docucmentation for use until publication (which is underway). 
